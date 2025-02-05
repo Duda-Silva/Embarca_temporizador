@@ -47,10 +47,8 @@ Embarca_temporizador/
 1. Clone o repositório:
    ```sh
    git clone https://github.com/Duda-Silva/Embarca_temporizador.git
-   
-   cd temporizador-one-shot
-   
-   Compile o projeto
-
+   cd Embarca_temporizador
+    code .  //para abrir o VS code 
+   Compile o projeto (Compile Project)
    Simulação wokwi  - clique no arquivo diagram.json para se conduzido a simulação, ter play para iniciar a simulação no wokwi.
     
